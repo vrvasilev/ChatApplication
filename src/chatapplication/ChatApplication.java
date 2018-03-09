@@ -1,6 +1,6 @@
 /*
- * ChatApllication is a server/cient multithread program.
- * Clients have two options, sending messagies to all clients or  
+ * ChatApllication is a server/client multithread program.
+ * Clients have two options, sending messages to all clients or  
  * sending to specific client.
  * 
  */
