@@ -18,3 +18,8 @@ in Java using Socket API.**
 ### And for client:
 - Running thread for reading messages.  
 - Running thread for writing messages.
+
+#### To do list:
+- Better authorization methods for clients.
+- Adding database support.
+- GUI.
