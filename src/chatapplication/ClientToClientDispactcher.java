@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 
 /** 
- * ClientToClientDispactcher send messagies that
+ * ClientToClientDispactcher send messages that
  * are in queue to specific client
  * 
  */
